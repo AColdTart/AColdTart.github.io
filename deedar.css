@@ -1,0 +1,95 @@
+.header{
+    padding-top:70px;
+    background-image: url("backgroup_darkedcomplet.jpg");
+    background-size:cover;
+    max-height: 900px;
+    min-height: 680px;
+
+
+}
+
+.glyphicon{
+    font-size: xx-large;
+    margin: 25px;
+}
+
+.row{
+    padding: 35px;
+    font-size: large;
+    font-family: "Century Gothic";
+    line-height: 35px
+}
+
+.intro-text{
+    color: cornflowerblue;
+    font-family: "Century Gothic";
+    font-size: 150px;
+}
+
+.intro-description{
+    font-family: "Century Gothic";
+    font-size: 40px;
+    color: white;
+}
+
+.nav{
+    text-align:center;
+    padding: 10px;
+    font-family: "Century Gothic";
+}
+.active-nav:hover{
+    color: cornflowerblue;
+}
+
+.active-nav{
+    font-size:large;
+}
+
+section {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+
+}
+
+.features_subtitle{
+    color: darkslategrey;
+    font-family:"Century Gothic";
+    font-size: 30px;
+
+}
+
+.features_text{
+    font-size: large;
+    line-height: 30px;
+    font-family: "Century Gothic";
+}
+
+h2{
+    color: cornflowerblue;
+    font-family: "Century Gothic";
+    font-size: 40px;
+}
+
+.another{
+    font-family: "Century Gothic";
+    padding: 70px;
+}
+
+.btn{
+    font-family: "Century Gothic";
+
+}
+
+.footer{
+    font-family: "Century Gothic";
+}
+
+.signup_back{
+    background-image: url("signupback.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
